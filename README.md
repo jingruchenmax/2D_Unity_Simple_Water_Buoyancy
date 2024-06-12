@@ -3,3 +3,5 @@ This is a very simple Water Buoyancy C# Script for Unity3D Game Engine. When tou
 
 ## Credit
 This project is based on [Unity-Simple-Water-Buoyancy](https://github.com/ZauronDark/Unity-Simple-Water-Buoyancy) 
+
+![](demo.gif)
